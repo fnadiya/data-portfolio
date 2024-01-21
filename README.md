@@ -6,6 +6,6 @@
 <h4>Let's keep in touch!</h4>
 <p>Mail: nadiyaftrn@gmail.com</p>
 <p>My <a href="https://www.linkedin.com/in/nadiya-fitriana/">LinkedIn Profile</a></p>
-<p>My <a href="https://nadiyaf.journoportfolio.com/">Social Media Portfolio</a></p>
+<!--<p>My <a href="https://nadiyaf.journoportfolio.com/">Social Media Portfolio</a></p>
 
 <p>This repository serves to showcase my skills and as a platform to share my projects since I start dig in SQL. Using PostgreSQL, and using simple syntax on data exploration.</p>
