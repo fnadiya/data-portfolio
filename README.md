@@ -1,2 +1,2 @@
-<h1>Nadiya Fitriana - Data Analysis Portfolio</h1>
+<h1><b>Nadiya Fitriana - Data Analysis Portfolio</b></h1>
 
